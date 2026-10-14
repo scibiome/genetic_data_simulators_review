@@ -43,8 +43,8 @@ install.packages(c("readxl", "httr", "jsonlite", "dplyr", "purrr", "stringr",
 Both scripts use relative paths, so run them from the root of the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_NAME>
+git clone https://github.com/scibiome/genetic_data_simulators_review.git
+cd genetic_data_simulators_review
 
 # Step 1 (optional): retrieve current citation counts from OpenAlex
 Rscript OpenAlex_retrieve_citations.R
