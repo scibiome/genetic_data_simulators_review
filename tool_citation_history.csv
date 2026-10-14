@@ -1,0 +1,306 @@
+"Tool","Publication_Year","Paper_Title","Strategy","Year","Citations"
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2026,1
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2025,4
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2024,3
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2023,4
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2022,4
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2021,4
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2020,3
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2019,4
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2018,4
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2017,5
+"ARGON",2016,"ARGON: fast, whole-genome simulation of the discrete time Wright-fisher process","Backward",2016,2
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2025,6
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2024,2
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2023,7
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2022,6
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2021,6
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2020,4
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2019,3
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2018,3
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2017,2
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2016,7
+"Cosi2",2014,"Cosi2: an efficient simulator of exact and approximate coalescent with selection","Backward",2015,5
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2026,10
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2025,13
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2024,16
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2023,15
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2022,11
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2021,16
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2020,12
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2019,9
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2018,15
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2017,4
+"Discoal",2016,"Discoal: flexible coalescent simulations with selection","Backward",2016,3
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2026,12
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2025,23
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2024,37
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2023,20
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2022,38
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2021,115
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2020,42
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2019,41
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2018,44
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2017,40
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2016,35
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2015,27
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2014,28
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2013,24
+"fastsimcoal 1",2011,"fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios","Backward",2012,7
+"fastsimcoal 2",2021,"fastsimcoal2 : demographic inference under complex evolutionary scenarios","Backward",2026,96
+"fastsimcoal 2",2021,"fastsimcoal2 : demographic inference under complex evolutionary scenarios","Backward",2025,114
+"fastsimcoal 2",2021,"fastsimcoal2 : demographic inference under complex evolutionary scenarios","Backward",2024,112
+"fastsimcoal 2",2021,"fastsimcoal2 : demographic inference under complex evolutionary scenarios","Backward",2023,86
+"fastsimcoal 2",2021,"fastsimcoal2 : demographic inference under complex evolutionary scenarios","Backward",2022,52
+"fastsimcoal 2",2021,"fastsimcoal2 : demographic inference under complex evolutionary scenarios","Backward",2021,4
+"fastsimcoal 2",2021,"fastsimcoal2 : demographic inference under complex evolutionary scenarios","Backward",2020,1
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2026,57
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2025,81
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2024,113
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2023,108
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2022,106
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2021,129
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2020,106
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2019,78
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2018,55
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2017,22
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2016,7
+"msprime",2016,"Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes","Backward",2015,1
+"msprime 1",2021,"Efficient ancestry and mutation simulation with msprime 1.0","Backward",2026,115
+"msprime 1",2021,"Efficient ancestry and mutation simulation with msprime 1.0","Backward",2025,159
+"msprime 1",2021,"Efficient ancestry and mutation simulation with msprime 1.0","Backward",2024,142
+"msprime 1",2021,"Efficient ancestry and mutation simulation with msprime 1.0","Backward",2023,92
+"msprime 1",2021,"Efficient ancestry and mutation simulation with msprime 1.0","Backward",2022,36
+"msprime 1",2021,"Efficient ancestry and mutation simulation with msprime 1.0","Backward",2021,1
+"msprime 1",2021,"Efficient ancestry and mutation simulation with msprime 1.0","Backward",2020,1
+"msprime 1",2021,"Efficient ancestry and mutation simulation with msprime 1.0","Backward",2018,1
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2026,3
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2025,6
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2024,7
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2023,8
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2022,7
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2021,18
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2020,4
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2019,14
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2018,16
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2017,9
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2016,11
+"fwdpp",2014,"A C++ Template Library for Efficient Forward-Time Population Genetic Simulation of Large Populations","Forward",2015,3
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2026,1
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2024,1
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2023,2
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2022,6
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2021,6
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2020,2
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2019,6
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2018,7
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2017,6
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2016,3
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2015,5
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2014,4
+"FFPopSim",2012,"FFPopSim: an efficient forward simulation package for the evolution of large populations","Forward",2013,7
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2026,8
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2025,14
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2024,13
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2023,10
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2022,11
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2021,30
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2020,20
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2019,16
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2018,30
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2017,26
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2016,34
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2015,17
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2014,16
+"SLiM 1",2013,"SLiM: Simulating Evolution with Selection and Linkage","Forward",2013,1
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2026,7
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2025,14
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2024,15
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2023,15
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2022,49
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2021,33
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2020,40
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2019,47
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2018,60
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2017,23
+"SLiM 2",2016,"SLiM 2: Flexible, Interactive Forward Genetic Simulations","Forward",2016,2
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2026,36
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2025,77
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2024,147
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2023,167
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2022,135
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2021,160
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2020,106
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2019,62
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2018,6
+"SLiM 3",2018,"SLiM 3: Forward Genetic Simulations Beyond the Wright–Fisher Model","Forward",2017,1
+"SLiM 4",2022,"SLiM 4: Multispecies Eco-Evolutionary Modeling","Forward",2026,83
+"SLiM 4",2022,"SLiM 4: Multispecies Eco-Evolutionary Modeling","Forward",2025,133
+"SLiM 4",2022,"SLiM 4: Multispecies Eco-Evolutionary Modeling","Forward",2024,114
+"SLiM 4",2022,"SLiM 4: Multispecies Eco-Evolutionary Modeling","Forward",2023,43
+"SLiM 4",2022,"SLiM 4: Multispecies Eco-Evolutionary Modeling","Forward",2022,5
+"SLiM 4",2022,"SLiM 4: Multispecies Eco-Evolutionary Modeling","Forward",2021,2
+"SLiM 5",2025,"SLiM 5: Eco-evolutionary Simulations Across Multiple Chromosomes and Full Genomes","Forward",2026,22
+"AnA-FiTs",2013,"Rapid forward-in-time simulation at the chromosome and genome level","Forward",2018,2
+"AnA-FiTs",2013,"Rapid forward-in-time simulation at the chromosome and genome level","Forward",2017,3
+"AnA-FiTs",2013,"Rapid forward-in-time simulation at the chromosome and genome level","Forward",2016,3
+"AnA-FiTs",2013,"Rapid forward-in-time simulation at the chromosome and genome level","Forward",2015,2
+"AnA-FiTs",2013,"Rapid forward-in-time simulation at the chromosome and genome level","Forward",2014,4
+"AnA-FiTs",2013,"Rapid forward-in-time simulation at the chromosome and genome level","Forward",2013,2
+"AdmixSim 1",2020,"AdmixSim: A Forward-Time Simulator for Various Complex Scenarios of Population Admixture","Forward",2025,1
+"AdmixSim 1",2020,"AdmixSim: A Forward-Time Simulator for Various Complex Scenarios of Population Admixture","Forward",2022,2
+"AdmixSim 1",2020,"AdmixSim: A Forward-Time Simulator for Various Complex Scenarios of Population Admixture","Forward",2021,3
+"AdmixSim 1",2020,"AdmixSim: A Forward-Time Simulator for Various Complex Scenarios of Population Admixture","Forward",2018,2
+"AdmixSim 2",2021,"AdmixSim 2: a forward-time simulator for modeling complex population admixture","Forward",2025,2
+"AdmixSim 2",2021,"AdmixSim 2: a forward-time simulator for modeling complex population admixture","Forward",2024,4
+"AdmixSim 2",2021,"AdmixSim 2: a forward-time simulator for modeling complex population admixture","Forward",2023,1
+"AdmixSim 2",2021,"AdmixSim 2: a forward-time simulator for modeling complex population admixture","Forward",2022,1
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2025,3
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2024,1
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2023,2
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2022,2
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2021,17
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2020,3
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2019,5
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2018,5
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2017,4
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2016,7
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2015,3
+"Forqs",2013,"forqs: forward-in-time simulation of recombination, quantitative traits and selection","Forward",2014,6
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2026,5
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2025,2
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2024,2
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2023,4
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2022,2
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2021,2
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2020,4
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2019,1
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2018,1
+"GeneEvolve",2016,"GeneEvolve: a fast and memory efficient forward-time simulator of realistic whole-genome sequence and SNP data","Forward",2017,2
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2025,1
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2024,1
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2023,1
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2022,1
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2021,2
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2020,2
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2019,3
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2018,2
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2017,3
+"GPOPSIM 1",2015,"GPOPSIM: a simulation tool for whole-genome genetic data","Forward",2016,2
+"GPOPSIM 2",2021,"The theory on and software simulating large-scale genomic data for genotype-by-environment interactions","Forward",2024,2
+"GPOPSIM 2",2021,"The theory on and software simulating large-scale genomic data for genotype-by-environment interactions","Forward",2023,1
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2026,14
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2025,11
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2024,12
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2023,5
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2022,10
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2021,34
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2020,22
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2019,21
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2018,14
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2017,14
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2016,17
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2015,12
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2014,10
+"MimicrEE 1",2013,"A Guide for the Design of Evolve and Resequencing Studies","Forward",2013,1
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2026,6
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2025,4
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2024,6
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2023,3
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2022,11
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2021,14
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2020,9
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2019,12
+"MimicrEE 2",2018,"MimicrEE2: Genome-wide forward simulations of Evolve and Resequencing studies","Forward",2018,3
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2026,1
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2025,3
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2023,5
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2022,2
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2021,6
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2020,6
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2019,3
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2018,3
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2017,3
+"SELAM",2016,"SELAM: simulation of epistasis and local adaptation during admixture with mate choice","Forward",2016,1
+"SimBit",2021,"SimBit: A high performance, flexible and easy‐to‐use population genetic simulator","Forward",2026,2
+"SimBit",2021,"SimBit: A high performance, flexible and easy‐to‐use population genetic simulator","Forward",2025,3
+"SimBit",2021,"SimBit: A high performance, flexible and easy‐to‐use population genetic simulator","Forward",2024,1
+"SimBit",2021,"SimBit: A high performance, flexible and easy‐to‐use population genetic simulator","Forward",2023,1
+"SimBit",2021,"SimBit: A high performance, flexible and easy‐to‐use population genetic simulator","Forward",2022,4
+"SimBit",2021,"SimBit: A high performance, flexible and easy‐to‐use population genetic simulator","Forward",2021,2
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2025,1
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2024,2
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2022,1
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2021,3
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2020,1
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2019,1
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2018,1
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2017,3
+"PReFerSim",2016,"PReFerSim: fast simulation of demography and selection under the Poisson Random Field model","Forward",2016,2
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2026,2
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2025,6
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2024,3
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2023,3
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2022,1
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2021,18
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2020,5
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2019,4
+"QuantiNemo 2",2018,"QuantiNemo 2: a Swiss knife to simulate complex demographic and genetic scenarios, forward and backward in time","Forward",2018,2
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2026,9
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2025,20
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2024,26
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2023,32
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2022,26
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2021,33
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2020,23
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2019,30
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2018,25
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2017,23
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2016,42
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2015,27
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2014,22
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2013,16
+"HAPGEN2",2011,"HAPGEN2: simulation of multiple disease SNPs","Resampling",2012,13
+"simLD",2011,"Simulating Linkage Disequilibrium Structures in a Human Population for SNP Association Studies","Resampling",2020,2
+"simLD",2011,"Simulating Linkage Disequilibrium Structures in a Human Population for SNP Association Studies","Resampling",2019,1
+"simLD",2011,"Simulating Linkage Disequilibrium Structures in a Human Population for SNP Association Studies","Resampling",2017,2
+"simLD",2011,"Simulating Linkage Disequilibrium Structures in a Human Population for SNP Association Studies","Resampling",2016,2
+"simLD",2011,"Simulating Linkage Disequilibrium Structures in a Human Population for SNP Association Studies","Resampling",2015,1
+"simLD",2011,"Simulating Linkage Disequilibrium Structures in a Human Population for SNP Association Studies","Resampling",2014,2
+"simLD",2011,"Simulating Linkage Disequilibrium Structures in a Human Population for SNP Association Studies","Resampling",2013,2
+"simLD",2011,"Simulating Linkage Disequilibrium Structures in a Human Population for SNP Association Studies","Resampling",2012,2
+"simGWA",2013,"A Whole‐Genome Simulator Capable of Modeling High‐Order Epistasis for Complex Disease","Resampling",2024,1
+"simGWA",2013,"A Whole‐Genome Simulator Capable of Modeling High‐Order Epistasis for Complex Disease","Resampling",2023,1
+"simGWA",2013,"A Whole‐Genome Simulator Capable of Modeling High‐Order Epistasis for Complex Disease","Resampling",2020,4
+"simGWA",2013,"A Whole‐Genome Simulator Capable of Modeling High‐Order Epistasis for Complex Disease","Resampling",2016,1
+"simGWA",2013,"A Whole‐Genome Simulator Capable of Modeling High‐Order Epistasis for Complex Disease","Resampling",2014,3
+"TriadSim",2018,"Simulating autosomal genotypes with realistic linkage disequilibrium and a spiked-in genetic effect","Resampling",2025,1
+"TriadSim",2018,"Simulating autosomal genotypes with realistic linkage disequilibrium and a spiked-in genetic effect","Resampling",2024,3
+"TriadSim",2018,"Simulating autosomal genotypes with realistic linkage disequilibrium and a spiked-in genetic effect","Resampling",2023,3
+"TriadSim",2018,"Simulating autosomal genotypes with realistic linkage disequilibrium and a spiked-in genetic effect","Resampling",2022,1
+"TriadSim",2018,"Simulating autosomal genotypes with realistic linkage disequilibrium and a spiked-in genetic effect","Resampling",2021,3
+"TriadSim",2018,"Simulating autosomal genotypes with realistic linkage disequilibrium and a spiked-in genetic effect","Resampling",2020,2
+"TriadSim",2018,"Simulating autosomal genotypes with realistic linkage disequilibrium and a spiked-in genetic effect","Resampling",2019,1
+"TriadSim",2018,"Simulating autosomal genotypes with realistic linkage disequilibrium and a spiked-in genetic effect","Resampling",2018,2
+"sim1000G",2019,"sim1000G: a user-friendly genetic variant simulator in R for unrelated individuals and family-based designs","Resampling",2026,5
+"sim1000G",2019,"sim1000G: a user-friendly genetic variant simulator in R for unrelated individuals and family-based designs","Resampling",2025,9
+"sim1000G",2019,"sim1000G: a user-friendly genetic variant simulator in R for unrelated individuals and family-based designs","Resampling",2024,7
+"sim1000G",2019,"sim1000G: a user-friendly genetic variant simulator in R for unrelated individuals and family-based designs","Resampling",2023,5
+"sim1000G",2019,"sim1000G: a user-friendly genetic variant simulator in R for unrelated individuals and family-based designs","Resampling",2022,5
+"sim1000G",2019,"sim1000G: a user-friendly genetic variant simulator in R for unrelated individuals and family-based designs","Resampling",2021,5
+"sim1000G",2019,"sim1000G: a user-friendly genetic variant simulator in R for unrelated individuals and family-based designs","Resampling",2020,6
+"sim1000G",2019,"sim1000G: a user-friendly genetic variant simulator in R for unrelated individuals and family-based designs","Resampling",2019,3
+"EpiGEN",2020,"EpiGEN: an epistasis simulation pipeline","Resampling",2026,2
+"EpiGEN",2020,"EpiGEN: an epistasis simulation pipeline","Resampling",2025,4
+"EpiGEN",2020,"EpiGEN: an epistasis simulation pipeline","Resampling",2024,4
+"EpiGEN",2020,"EpiGEN: an epistasis simulation pipeline","Resampling",2023,1
+"EpiGEN",2020,"EpiGEN: an epistasis simulation pipeline","Resampling",2022,2
+"EpiGEN",2020,"EpiGEN: an epistasis simulation pipeline","Resampling",2021,2
+"EpiGEN",2020,"EpiGEN: an epistasis simulation pipeline","Resampling",2020,1
+"RAREsim",2022,"RAREsim: A simulation method for very rare genetic variants","Resampling",2026,3
+"RAREsim",2022,"RAREsim: A simulation method for very rare genetic variants","Resampling",2024,2
+"RAREsim",2022,"RAREsim: A simulation method for very rare genetic variants","Resampling",2023,3
+"HAPNEST",2023,"HAPNEST: efficient, large-scale generation and evaluation of synthetic datasets for genotypes and phenotypes","Resampling",2026,11
+"HAPNEST",2023,"HAPNEST: efficient, large-scale generation and evaluation of synthetic datasets for genotypes and phenotypes","Resampling",2025,7
+"HAPNEST",2023,"HAPNEST: efficient, large-scale generation and evaluation of synthetic datasets for genotypes and phenotypes","Resampling",2024,8
+"HAPNEST",2023,"HAPNEST: efficient, large-scale generation and evaluation of synthetic datasets for genotypes and phenotypes","Resampling",2023,4
